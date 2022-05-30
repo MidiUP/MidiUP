@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusmendes&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 Atualmento estou trabalhando na empresa [Framework Digital](https://www.frameworkdigital.com.br/)
-- 🌱 No momento estou aprofundando meu conhecimento em TypeScript, DDD, TDD, react, Nodejs(express).
+- 🌱 No momento estou aprofundando meu conhecimento em TypeScript, DDD, TDD, React, Nodejs(express), Clean Code e Design Patterns.
 - 🥅 Metas 2022: Aperfeiçoar minhas habilidades, com testes unitarios e integração, arquitetura limpa, docker, Kubernetes, AWS, Azure, Jest.
 
 <br />
