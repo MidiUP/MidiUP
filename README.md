@@ -1,4 +1,4 @@
-<img align="right" height="550em" src="https://gist.githubusercontent.com/MidiUP/3371b640ad02383660e6e9baf738a5a8/raw/02d6e9c76b071ff84dae46126edbb3a7c5ae59bf/githubcard.svg"/>
+<img align="right" height="550em" src="https://gist.githubusercontent.com/MidiUP/4cc41d585a5efe2542e1bd41600c3d2b/raw/2621338daa73c00f81ba296e453dbe041a15632b/githubcard2.svg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Mateus Mendes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusmendes&color=yellow" alt="Profile views" /> </p>
 
