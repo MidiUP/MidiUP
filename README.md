@@ -1,5 +1,5 @@
 <img align="right" height="550em" src="https://gist.githubusercontent.com/MidiUP/4cc41d585a5efe2542e1bd41600c3d2b/raw/2621338daa73c00f81ba296e453dbe041a15632b/githubcard2.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Mateus Mendes</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, Eu sou Mateus Mendes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusmendes&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 Atualmento estou trabalhando na empresa [Framework Digital](https://www.frameworkdigital.com.br/)
